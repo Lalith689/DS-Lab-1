@@ -1,0 +1,11 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.csv
+.env
+venv/
+env/
+
+# Jupyter Notebook
+.ipynb_checkpoints
